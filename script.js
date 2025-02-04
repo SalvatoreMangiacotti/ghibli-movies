@@ -83,6 +83,7 @@ const ghibliMoviesList = [
     }
 ]
 
+
 const container = document.querySelector('.container');
 
 ghibliMoviesList.forEach((movie) => {
