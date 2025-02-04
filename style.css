@@ -10,20 +10,22 @@ body {
 
 img {
     width: 100%;
+    border-radius: 15px;
 }
 
 .container {
     display: flex;
-    align-items: center;
+    flex-wrap: wrap;
     justify-content: center;
     height: 100vh;
+    gap: 1rem;
 }
 
 .card {
     background-color: lightskyblue;
     border-radius: 15px;
     padding: 1rem;
-    width: 30%;
+    width: 40%;
     display: flex;
     flex-direction: column;
     gap: 1rem;
