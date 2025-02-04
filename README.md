@@ -1,1 +1,1 @@
-This project is solely for practice purposes
+This project is solely for practice purposes 📖
